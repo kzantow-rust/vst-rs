@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["vst"] = [{"text":"impl Default for TimeInfo","synthetic":false,"types":[]},{"text":"impl Default for SmpteFrameRate","synthetic":false,"types":[]},{"text":"impl Default for SendEventBuffer","synthetic":false,"types":[]},{"text":"impl Default for SpeakerArrangementType","synthetic":false,"types":[]},{"text":"impl Default for Info","synthetic":false,"types":[]},{"text":"impl Default for HostCallback","synthetic":false,"types":[]},{"text":"impl Default for AtomicFloat","synthetic":false,"types":[]},{"text":"impl Default for ParameterTransfer","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

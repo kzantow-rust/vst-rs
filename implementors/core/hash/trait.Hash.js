@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["vst"] = [{"text":"impl Hash for ChannelFlags","synthetic":false,"types":[]},{"text":"impl Hash for PluginFlags","synthetic":false,"types":[]},{"text":"impl Hash for ModifierKey","synthetic":false,"types":[]},{"text":"impl Hash for MidiEventFlags","synthetic":false,"types":[]},{"text":"impl Hash for TimeInfoFlags","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
